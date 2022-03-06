@@ -1,0 +1,5 @@
+npm init -y
+
+npm i mysql express body-parser
+
+npm run dev
